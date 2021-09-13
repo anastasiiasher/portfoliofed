@@ -37,13 +37,13 @@ p {
   text-align: center;
 }
 
-.navigationlink {
+.navigation-links {
   display: flex;
   margin-top: 40px;
   justify-content: center;
 }
 
-.navigationlink a {
+.navigation-links a {
   margin: 20px;
   border-radius: 4px;
   padding: 20px 15px;
