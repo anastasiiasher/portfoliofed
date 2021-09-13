@@ -41,12 +41,6 @@ p {
   display: flex;
   margin-top: 40px;
   justify-content: center;
-  border-radius: 4px;
-  padding: 20px 15px;
-  text-decoration: none;
-  text-transform: capitalize;
-  display: flex;
-  flex-direction: row;
 }
 
 .navigation-links a {
@@ -59,6 +53,10 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
   flex: 1;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
 }
 
 .aboutlink {
@@ -66,6 +64,11 @@ p {
   border: 1px solid var(--primary-color);
   border-radius: 4px;
   flex: 1;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+
 }
 
 .homepage-link {
